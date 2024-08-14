@@ -1,0 +1,16 @@
+{
+  "name": "sools-ressourcing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RessourceOwner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sools-core": "^1.0.0",
+    "sools-management": "^1.0.0",
+    "sools-modeling": "^1.0.0"
+  }
+}
